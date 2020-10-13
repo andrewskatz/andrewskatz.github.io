@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Andrew Katz"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ak_headshot.jpg"
   bio    : "Welcome to the site!"
   links:
     - label: "Website"
