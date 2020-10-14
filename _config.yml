@@ -16,10 +16,12 @@
 title: Engineering. Education. Research.
 email: akatz 4 at vt dot edu
 description: >- # this means to ignore newlines until "baseurl:"
+  Andrew Katz is an assistant professor in the Department of 
+  Engineering Education at Virginia Tech.
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
+twitter_username: doc_katz
 github_username: username
 minimal_mistakes_skin: default
 search: true
