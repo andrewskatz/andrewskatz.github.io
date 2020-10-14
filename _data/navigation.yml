@@ -3,11 +3,12 @@ main:
     url: /home/
   - title: "Projects"
     url: /projects/
+  - title: "About"
+    url: /about/
   #- title: "Categories"
     #url: /categories/
   #- title: "Tags"
     #url: /tags/
-  - title: "About"
-    url: /about/
+
   - title: "Extra Materials"
     url: /extra/
