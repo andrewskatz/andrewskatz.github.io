@@ -60,11 +60,14 @@ plugins:
 author:
   name   : "Andrew S. Katz"
   avatar : "/assets/images/ak_headshot.jpg"
-  bio    : "Welcome to the site!"
+  bio    : "Welcome to my personal site!"
   links:
-    - label: "Website"
+    - label: "Official VT Website"
       icon: "fas fa-fw fa-link"
       url: "https://enge.vt.edu/People/researchfaculty/andrewkatz.html"
+    - label: "IDEEAS Lab Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.ideeaslab.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/doc_katz"
