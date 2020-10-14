@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Andrew S. Katz"
   avatar : "/assets/images/ak_headshot.jpg"
-  bio    : "Welcome to my personal site!"
+  bio    : "Researcher, teacher, and engineer"
   links:
     - label: "Official VT Website"
       icon: "fas fa-fw fa-university"
