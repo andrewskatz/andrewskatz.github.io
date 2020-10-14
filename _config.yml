@@ -65,7 +65,7 @@ author:
   bio    : "Welcome to my personal site!"
   links:
     - label: "Official VT Website"
-      icon: "fas fa-fw fa-link"
+      icon: "/assets/images/vt_logo.jpg"
       url: "https://enge.vt.edu/People/researchfaculty/andrewkatz.html"
     - label: "IDEEAS Lab Website"
       icon: "fas fa-fw fa-link"
