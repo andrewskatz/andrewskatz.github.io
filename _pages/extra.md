@@ -4,7 +4,7 @@ title: "Extra Materials"
 ---
 Miscellaneous items that have informed my thinking...
 
-Teaching resources:
+### Teaching resources:
 
 3Blue1Brown on [Linear algebra]
 
@@ -16,9 +16,9 @@ Emma Brunskill on [Reinforcement learning]
 
 Frederic Schuller on [Differential geometry]
 
+---
 
-
-Influential talks:
+### Influential talks:
 
 Quentin Skinner - [Genealogy of Liberty]
 
