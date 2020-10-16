@@ -26,6 +26,8 @@ Benjamin Zander - [Transformative Power of Classical Music]
 
 Carol Dweck - [The Power of Yet]
 
+Larry McEnerney - [The Craft of Writing Effectively]
+
 
 
 [Linear algebra]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -37,3 +39,5 @@ Carol Dweck - [The Power of Yet]
 [Genealogy of Liberty]: https://www.youtube.com/watch?v=PjQ-W2-fKUs
 [Transformative Power of Classical Music]: https://www.youtube.com/watch?v=r9LCwI5iErE
 [The Power of Yet]: https://www.youtube.com/watch?v=J-swZaKN2Ic
+[The Craft of Writing Effectively]: https://www.youtube.com/watch?v=vtIzMaLkCaM
+
