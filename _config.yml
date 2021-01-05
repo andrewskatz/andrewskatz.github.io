@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Andrew S. Katz"
-  avatar : "/assets/images/ak_headshot.jpg"
+  avatar : "/assets/images/ak_alt_headshot_small_2.jpg"
   bio    : "Researcher, teacher, and engineer"
   links:
     - label: "Official VT Website"
